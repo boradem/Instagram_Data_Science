@@ -20,8 +20,6 @@ Bu proje, Kaggle'dan alınan "Top Instagram Influencers Data (Cleaned)" veri set
 
 ## 📁 Proje Yapısı
 
-## 📁 Project Structure
-
 ```
 Instagram_Data_Science/
 ├── data/
