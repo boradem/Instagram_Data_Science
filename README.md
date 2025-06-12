@@ -1,7 +1,5 @@
 # Instagram_Data_Science
 
-# Instagram Data Science – Influencer Analizi
-
 Bu proje, Kaggle'dan alınan "Top Instagram Influencers Data (Cleaned)" veri seti üzerinden Instagram influencer’larının performansını analiz etmeyi amaçlıyor.
 
 ## 🎯 Hedefler
