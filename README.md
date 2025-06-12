@@ -20,17 +20,25 @@ Bu proje, Kaggle'dan alınan "Top Instagram Influencers Data (Cleaned)" veri set
 
 ## 📁 Proje Yapısı
 
+## 📁 Project Structure
+
+```
 Instagram_Data_Science/
-├── data/ # Raw dataset: top_influencers.csv
+├── data/
+│   ├── top_instagram_influencers.csv
+│   └── cleaned_influencers.csv
 ├── notebooks/
-│ ├── 01_data_cleaning.ipynb # Veri temizleme & ön analiz
-│ ├── 02_eda.ipynb # EDA görselleştirmeleri
-│ ├── 03_modeling.ipynb # Basit modelleme
+│   ├── 01_data_cleaning.ipynb
+│   ├── 02_eda.ipynb
+│   ├── 03_modeling.ipynb
 ├── src/
-│ ├── data_loader.py
-│ └── utils.py
+│   ├── __init__.py
+│   ├── data_loader.py
+│   └── utils.py
 ├── results/
-│ ├── figures/
-│ └── model_summary.csv
+│   ├── figures/
+│   ├── model_summary.csv
 ├── requirements.txt
 └── README.md
+```
+
