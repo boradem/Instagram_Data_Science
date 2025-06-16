@@ -2,23 +2,23 @@
 
 Bu proje, Kaggle'dan alınan "Top Instagram Influencers Data (Cleaned)" veri seti üzerinden Instagram influencer’larının performansını analiz etmeyi amaçlıyor.
 
-## 🎯 Hedefler
+## Hedefler
 
 - Takipçi sayısı, kategori ve ülke gibi faktörlerin etkileşim oranına etkisini incelemek
 - Etkileşim oranına göre influencer’ları gruplandırmak
 - Basit bir modelle hangi özelliklerin etkileşimi en çok etkilediğini yorumlamak
 
-## 🧩 Veri
+## Veri
 
 - **Veri kaynağı:** Kaggle – "Top Instagram Influencers Data (Cleaned)" :contentReference[oaicite:4]{index=4}
 - Filtreleme veya temizleme öncesi raw CSV’in `data/` klasöründe saklanması önerilir
 
-## 🧰 Teknolojiler
+## eknolojiler
 
 - Python: pandas, seaborn, matplotlib, scikit-learn
 - Jupyter Notebook
 
-## 📁 Proje Yapısı
+## Proje Yapısı
 
 ```
 Instagram_Data_Science/
