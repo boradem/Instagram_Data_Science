@@ -13,7 +13,7 @@ Bu proje, Kaggle'dan alınan "Top Instagram Influencers Data (Cleaned)" veri set
 - **Veri kaynağı:** Kaggle – "Top Instagram Influencers Data (Cleaned)" :contentReference[oaicite:4]{index=4}
 - Filtreleme veya temizleme öncesi raw CSV’in `data/` klasöründe saklanması önerilir
 
-## eknolojiler
+## Teknolojiler
 
 - Python: pandas, seaborn, matplotlib, scikit-learn
 - Jupyter Notebook
